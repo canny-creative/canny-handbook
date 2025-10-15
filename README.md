@@ -88,6 +88,3 @@ Got a marketing challenge you’re ready to fix?
 [Let’s talk](https://www.canny-creative.com/contact/)
 
 Or just explore our work and see if we’re the right fit.
-
----
->>>>>>> 9b1d191 (Initial commit with full README)
