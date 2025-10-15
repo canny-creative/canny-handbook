@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# canny-handbook
-=======
 # 🧠 Canny Creative Handbook
 
 Welcome to the Canny Creative Handbook — a central reference for how we work, what we offer, and where to find our best resources.
